@@ -1,0 +1,14 @@
+*,body{
+    background: rgb(0,78,255);
+background: linear-gradient(90deg, rgba(0,78,255,1) 0%, rgba(121,9,9,1) 49%, rgba(0,78,255,1) 100%);
+
+}
+
+.kagune{
+    display: flex;
+    justify-content: center;
+}
+
+.hidden {
+    display: none;
+}
